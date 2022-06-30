@@ -1,0 +1,21 @@
+/*.status{ 
+    align-items: flex-end;
+}
+.loggedInMessage{
+    text-align: center;
+    color: green;
+    font-size: larger;
+}
+.logoutBtn {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+    width: 5%;
+    border-radius: 20px;
+    margin-left:auto;
+    display:block;
+    background-color: red;
+    font-style: bold;
+    border: none;
+} */

@@ -1,0 +1,19 @@
+.Checkbox {
+  padding: 1rem;
+}
+
+.image4 {
+  background: url(../../asstes/image3.png);
+  background-size: cover;
+  min-height: 86vh;
+}
+
+.homeBtn {
+  border: 15% solid #3f3f40;
+  color: none;
+  font-size: 16px;
+  cursor: pointer;
+  width: 10%;
+  border-radius: 20px;
+  margin-top: 20px;
+}
